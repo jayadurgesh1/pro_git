@@ -1,0 +1,3 @@
+git status
+Utility : To check the status of files you’ve changed in your working directory, i.e, what all has changed since your last commit.
+How to : git status in your working directory. lists out all the files that have been changed.

@@ -1,0 +1,3 @@
+git init
+Utility : To initialise a git repository for a new or existing project.
+How to : git init in the root of your project directory.

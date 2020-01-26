@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 created file
 
 edited once
+=======
+init command
+>>>>>>> 5dafaf15afc9c9fa03a65c52954eebd2545c720e
